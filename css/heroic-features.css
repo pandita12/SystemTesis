@@ -6,3 +6,24 @@
 body {
   padding-top: 56px;
 }
+
+
+.gene {
+  font-size: 30px;
+  color: #778899;
+}
+.gene:hover {
+  color: #0275d8;
+  text-decoration: color #DC143C;
+} 
+.info {
+  font-size: 30px;
+  color: #778899;
+}
+.info:hover {
+  color: #0275d8;
+  text-decoration: color #DC143C;
+} 
+.center{
+	color:#0275d8;
+}
