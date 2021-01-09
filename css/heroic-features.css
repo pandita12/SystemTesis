@@ -27,3 +27,9 @@ body {
 .center{
 	color:#0275d8;
 }
+.tableFixHead { overflow-y: auto; height: 100px; }
+
+/* Just common table stuff. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
