@@ -15,3 +15,7 @@ var $th = $('.tableFixHead').find('thead th')
 $('.tableFixHead').on('scroll', function() {
   $th.css('transform', 'translateY('+ this.scrollTop +'px)');
 });
+
+function ConfirmDemo(){
+  location.href = "https://github.com";
+}
